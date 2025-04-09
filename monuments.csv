@@ -1,0 +1,14 @@
+name,description,image_url,lat,lon
+Taj Mahal,An ivory-white marble mausoleum in Agra,static/monuments/taj_mahal.jpg,27.1751,78.0421
+India Gate,A war memorial in New Delhi,static/monuments/india_gate.jpg,28.6129,77.2295
+Charminar,An iconic mosque and monument in Hyderabad,static/monuments/charminar.jpg,17.3616,78.4747
+Qutub Minar,A UNESCO World Heritage site in Delhi,static/monuments/qutub_minar.jpg,28.5244,77.1855
+Red Fort,A historical fort in Delhi,static/monuments/red_fort.jpg,28.6562,77.2410
+Gateway of India,A famous arch monument in Mumbai,static/monuments/gateway_of_india.jpg,18.9218,72.8347
+Agra Fort,A massive fort in Agra,static/monuments/agra_fort.jpg,27.1795,78.0211
+Itmad-ud-Daulah,A Mughal mausoleum in Agra,static/monuments/itmad_ud_daulah.jpg,27.2000,78.0322
+Fatehpur Sikri,A historic city near Agra,static/monuments/fatehpur_sikri.jpg,27.0937,77.6600
+Rashtrapati Bhavan,Presidential residence in Delhi,static/monuments/rashtrapati_bhavan.jpg,28.6144,77.1995
+Golconda Fort,A ruined fortress in Hyderabad,static/monuments/golconda_fort.jpg,17.3833,78.4011
+Mecca Masjid,A historic mosque in Hyderabad,static/monuments/mecca_masjid.jpg,17.3611,78.4744
+Salar Jung Museum,A famous museum in Hyderabad,static/monuments/salar_jung_museum.jpg,17.3713,78.4804
